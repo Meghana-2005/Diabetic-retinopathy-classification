@@ -22,6 +22,8 @@ This project offers an automated, scalable, and accurate solution to DR detectio
 
 - **Name**: APTOS2019 - 10K Augmented Images
 - **Source**: [Kaggle](https://www.kaggle.com/datasets/aitude/aptos-augmented-images)
+- Dataset credit: APTOS2019 - 10K Augmented Images by (aitude)Sandeep Kumar
+
 - **Size**: 10,000 high-resolution fundus images
 - **Class distribution**: 2000 images per DR severity class
 
