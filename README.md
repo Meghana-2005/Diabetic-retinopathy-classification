@@ -90,4 +90,54 @@ A **hybrid model** is developed using:
 2. Image is preprocessed and passed to the model.
 3. The DR stage is predicted and displayed along with care tips.
 
+## 📁 File Structure
+
+diabetic-retinopathy-classification/
+├── resnet50_inceptionv3_combined.ipynb # Main notebook
+├── README.md # Project documentation
+└── requirements.txt # Dependencies (optional)
+
+
+---
+
+## 🚀 How to Run the Notebook
+
+1. Open the `.ipynb` notebook in Jupyter, Google Colab, or Kaggle.
+2. Upload the APTOS dataset or link it as needed.
+3. Run all cells sequentially to train and evaluate the model.
+
+---
+
+## 👥 Authors
+
+- Gorrepati Kavya Sudha 
+- Akuthota Meghana  
+- Vuyyala Likhitha  
+- Pagadala Pooja  
+- Vemula Teena Mounika  
+
+**Supervisor**: Dr. Habila Basumatary  
+*Indian Institute of Information Technology, Pune*
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License**.  
+See the [LICENSE](LICENSE) file for details.
+
+---
+
+## 🔭 Future Scope
+
+- Deploy the model as a web-based application  
+- Integrate with patient data for personalized diagnosis  
+- Use longitudinal data to predict DR progression  
+- Extend to classify other retinal diseases
+
+---
+
+## 🔑 Keywords
+
+Diabetic Retinopathy, Deep Learning, ResNet50, InceptionV3, Hybrid CNN, Medical Imaging, APTOS 2019, Fundus Classification
 
