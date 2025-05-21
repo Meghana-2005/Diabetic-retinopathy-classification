@@ -90,7 +90,7 @@ A **hybrid model** is developed using:
 ### How it works:
 1. User uploads a fundus image.
 2. Image is preprocessed and passed to the model.
-3. The DR stage is predicted and displayed along with care tips.
+3. The DR stage is predicted and displayed.
 
 ## File Structure
 
