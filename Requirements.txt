@@ -1,0 +1,10 @@
+tensorflow>=2.9
+keras
+numpy
+pandas
+matplotlib
+scikit-learn
+opencv-python
+seaborn             # for advanced plots
+albumentations      # for image augmentations
+jupyter             # if running locally
