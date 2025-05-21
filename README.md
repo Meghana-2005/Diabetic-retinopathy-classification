@@ -95,6 +95,7 @@ A **hybrid model** is developed using:
 ## File Structure
 
 kavyasudha2803/
+
 ├── MIT License.txt # License file with MIT License text
 
 ├── README.md # This file
