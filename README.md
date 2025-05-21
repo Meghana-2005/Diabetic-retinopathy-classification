@@ -1,7 +1,7 @@
 # Diabetic-retinopathy-classification
 Combined ResNet50 and InceptionV3 CNN model for image classification
 
-This project presents an automated deep learning-based system for detecting and classifying **Diabetic Retinopathy (DR)** using retinal fundus images. The system leverages a **hybrid CNN model** combining **ResNet50** and **InceptionV3** architectures, trained on the APTOS 2019 dataset. The model is deployed via a web application using Flask, enabling easy use by healthcare providers or patients.
+This project presents an automated deep learning-based system for detecting and classifying **Diabetic Retinopathy (DR)** using retinal images. The system leverages a **hybrid CNN model** combining **ResNet50** and **InceptionV3** architectures, trained on the APTOS 2019 dataset. The model is deployed via a web application using Flask, enabling easy use by healthcare providers or patients.
 
 ---
 
@@ -24,7 +24,7 @@ This project offers an automated, scalable, and accurate solution to DR detectio
 - **Source**: [Kaggle](https://www.kaggle.com/datasets/aitude/aptos-augmented-images)
 - Dataset credit: APTOS2019 - 10K Augmented Images by (aitude)Sandeep Kumar
 
-- **Size**: 10,000 high-resolution fundus images
+- **Size**: 10,000 high-resolution retinal images
 - **Class distribution**: 2000 images per DR severity class
 
 Preprocessing includes resizing, scaling, brightness adjustment, and zooming to ensure uniform quality and reduce overfitting.
@@ -88,7 +88,7 @@ A **hybrid model** is developed using:
 - Fully responsive design for mobile and desktop
 
 ### How it works:
-1. User uploads a fundus image.
+1. User uploads a retinal image.
 2. Image is preprocessed and passed to the model.
 3. The DR stage is predicted and displayed.
 
@@ -147,5 +147,5 @@ See the `MIT License.txt` file for details.
 
 ## 🔑 Keywords
 
-Diabetic Retinopathy, Deep Learning, ResNet50, InceptionV3, Hybrid CNN, Medical Imaging, APTOS 2019, Fundus Classification
+Diabetic Retinopathy, Deep Learning, ResNet50, InceptionV3, Hybrid CNN, Medical Imaging, APTOS 2019
 
