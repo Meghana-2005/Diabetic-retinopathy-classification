@@ -92,13 +92,18 @@ A **hybrid model** is developed using:
 2. Image is preprocessed and passed to the model.
 3. The DR stage is predicted and displayed along with care tips.
 
-## 📁 File Structure
+## File Structure
 
-diabetic-retinopathy-classification/
-├── resnet50_inceptionv3_combined.ipynb # Main notebook
-├── README.md # Project documentation
-└── requirements.txt # Dependencies (optional)
+kavyasudha2803/
+├── MIT License.txt # License file with MIT License text
 
+├── README.md # This file
+
+├── Requirements.txt # Project dependencies
+
+├── resnet50+inceptionv3.ipynb # Jupyter notebook with model code
+
+└── .gitignore # Git ignore rules
 
 ---
 
@@ -123,10 +128,10 @@ diabetic-retinopathy-classification/
 
 ---
 
-## 📄 License
+## License
 
-This project is licensed under the **MIT License**.  
-See the [LICENSE](LICENSE) file for details.
+This project is licensed under the [MIT License](./MIT%20License.txt).  
+See the `MIT License.txt` file for details.
 
 ---
 
